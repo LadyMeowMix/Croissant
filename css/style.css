@@ -11,6 +11,8 @@ footer {
   font-size: small;
 }
 .croissant {
-  box-align: center;
-  border: 10px solid black;
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
