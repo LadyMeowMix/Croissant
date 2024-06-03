@@ -10,3 +10,7 @@ footer {
   text-align: center;
   font-size: small;
 }
+img {
+  align-items: center;
+  border: 10px solid black;
+}
