@@ -11,6 +11,6 @@ footer {
   font-size: small;
 }
 img {
-  align-items: center;
+  box-align: center;
   border: 10px solid black;
 }
